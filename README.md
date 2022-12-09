@@ -1,5 +1,7 @@
 Name: Chandelor Losee
+
 School: South-West Technical College
+
 Current Course: Development Intermediate
 
 Description: The files stored here are for any assignments that are apart of the current course.
